@@ -2,7 +2,6 @@
 
 **Database Name: attendancemsystem**
 
-**Developed by Sodiq Ahmed**
 
 **Recommended PHP Version 5.6 and Newer**
 
@@ -17,5 +16,6 @@ Password: Password@123
 
 Email   : jwood@mail.com
 Password: pass123
+
 
 **Default password for teacher's account: pass123**
